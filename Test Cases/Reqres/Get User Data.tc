@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get User Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa9b69fa-ef3d-4aed-a940-811e6178164a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1be1b3a-c609-4708-ac30-1846d0a7e662</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2985d990-c4ea-4170-8a43-e310c7a1b3e8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>97a5ce47-1797-4486-8a76-b790eb5f8f29</id>
+      <masked>false</masked>
+      <name>response2</name>
+   </variable>
+</TestCaseEntity>

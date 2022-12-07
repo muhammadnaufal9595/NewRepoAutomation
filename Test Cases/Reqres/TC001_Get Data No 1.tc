@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_Get Data No 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ec60406-767a-4ecc-9298-596d54327550</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07533b74-b5a3-4e46-b83e-c5a72f5cc35e</id>
+      <masked>false</masked>
+      <name>response7</name>
+   </variable>
+</TestCaseEntity>
